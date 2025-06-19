@@ -1,1 +1,2 @@
-# proyecto1
+# Mi primer proyecto
+Este proyecto es un ejemplo para aprender Git.
